@@ -1,0 +1,33 @@
+/*
+ *= require_tree .
+ *= require_self
+ */
+
+body {
+  background-image: image-url('paper.jpg');
+  font-family: system;  
+}
+
+hgroup {
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-weight: 200;
+  font-size: 20px;
+}
+
+body > div {
+  width: 460px;
+  max-width: 90%;
+  margin:0 auto;
+}
+
+hr { 
+  border: 0;
+  border-top: 1px dashed #acabab;
+}
