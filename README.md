@@ -19,3 +19,5 @@ Happy writing,
 JP
 
 _http://justpostcards.co.uk_
+
+![Just Postcards](/app/assets/images/mark.png)
