@@ -12,6 +12,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'money-rails', '~> 1.6'
 gem 'puma', '~> 3.6'
+gem 'newrelic_rpm'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
