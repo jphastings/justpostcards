@@ -5,7 +5,7 @@
 
 body {
   background-image: image-url('paper.jpg');
-  font-family: -apple-system, BlinkMacSystemFont, system;  
+  font-family: -apple-system, BlinkMacSystemFont, system;
 }
 
 hgroup {
@@ -30,4 +30,14 @@ body > div {
 hr { 
   border: 0;
   border-top: 1px dashed #acabab;
+}
+
+h3 {
+  padding-bottom: 8px;
+  margin-bottom: 2px;
+  border-bottom: 1px dashed #acabab;
+}
+
+p {
+  line-height: 115%;
 }
