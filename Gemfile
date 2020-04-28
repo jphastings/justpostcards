@@ -11,7 +11,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'money-rails', '~> 1.6'
-gem 'puma', '~> 3.6'
+gem 'puma', '~> 3.12'
 gem 'newrelic_rpm'
 
 group :development, :test do
